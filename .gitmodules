@@ -1,0 +1,3 @@
+[submodule "pkgs/submodule"]
+	path = pkgs/submodule
+	url = https://github.com/pouria-mirebrahimi/submodule
